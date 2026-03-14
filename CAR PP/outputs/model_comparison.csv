@@ -1,0 +1,5 @@
+Model,MAE,MSE,RMSE,R2,Train Time (s),CV R² Mean
+Linear Regression,8368.8,140873466.96,11869.01,0.3519,0.13,0.3795
+Decision Tree Regressor,6314.4,119576163.87,10935.09,0.4499,0.17,0.4516
+Random Forest Regressor,4666.22,61901453.52,7867.75,0.7152,2.12,0.7102
+Gradient Boosting Regressor,5670.5,75134961.29,8668.04,0.6543,5.62,0.6516
